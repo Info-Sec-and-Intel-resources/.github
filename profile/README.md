@@ -31,6 +31,6 @@ My work experience spans many sectors, including:
 :candy: Bootstrap
 :lollipop: jQuery 
 :ice_cream: NVDA and Talk Back 
-:lemon: Kali Linux WSL
+:lemon: Kali Linux WLS
 
 
