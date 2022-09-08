@@ -21,6 +21,10 @@ My work experience spans many sectors, including:
 :woman_mechanic: and I have even helped a business take-off!
 </p>
 
+<p align="left">
+:mailbox: Feel free to contact me at github@infosec.mailer.me.
+</p>
+
 
 
 
