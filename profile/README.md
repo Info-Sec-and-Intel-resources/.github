@@ -3,7 +3,7 @@
 
 <br />
 
-<p align="left">I am a Computer Science and Cyber Security MSc student. <br /> I am also passionate about accessibility and web development. <br /> I am currently based in the United Kingdom. <br /> <br />Here you will be able to view some samples of my work. <br /> All my projects are experimental.</p>
+<p align="left">I am a Computer Science and Cyber Security MSc student. <br /> I am also passionate about accessibility and web development.<br /> <br />Here you will be able to view some samples of my work. <br /> All my projects are experimental.</p>
 
 
 <h2 align="left"> :smiley_cat: More about me  :smiley_cat: </h2>
@@ -22,7 +22,7 @@ My work experience spans many sectors, including:
 </p>
 
 <p align="left">
-:mailbox: Feel free to contact me at github@infosec.mailer.me.
+:mailbox: Feel free to contact me. I love meeting new people!
 </p>
 
 
