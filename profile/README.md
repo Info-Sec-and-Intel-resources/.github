@@ -7,9 +7,9 @@
 
 
 <h2 align="left"> :smiley_cat: More about me  :smiley_cat: </h2>
-<p align="left">:compass: Accessibility, Security and Development are central elements of my vision... 
+<p align="left">:compass: <strong> Accessibility, Security and Development are central elements of my vision... 
 <br />
-of a world that is open to all, secure for all and solves problems for all through mutual support and teamwork. :mountain_snow: 
+of a world that is open to all, secure for all and solves problems for all through mutual support and teamwork. </strong>:mountain_snow: 
 </p>
 <p align="left">
 My work experience spans many sectors, including: 
