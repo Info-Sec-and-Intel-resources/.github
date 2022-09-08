@@ -1,1 +1,26 @@
-hello! 
+
+<h1 align="center">Hello there! :upside_down_face:</h2>
+
+<br />
+
+<p align="left">I am a Computer Science and Cyber Security MSc student. <br /> I am also passionate about accessibility and web development. <br /> I am currently based in the United Kingdom. <br /> <br />Here you will be able to view some samples of my work. <br /> All my projects are experimental.</p>
+
+
+<h2 align="left"> :smiley_cat: More about me  :smiley_cat: </h2>
+<p align="left">:compass: Accessibility, Security and Development are central elements of my vision... 
+<br />
+of a world that is open to all, secure for all and solves problems for all through mutual support and teamwork. :mountain_snow: 
+</p>
+<p align="left">
+My work experience spans many sectors, including: 
+<br />
+:woman_health_worker: healthcare
+<br />
+:woman_technologist: customer support, technical support and complaints handling
+<br />
+:woman_mechanic: and I have even helped a business take-off!
+</p>
+
+
+
+
