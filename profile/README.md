@@ -30,6 +30,4 @@ My work experience spans many sectors, including:
 :shaved_ice: CSS/SCSS
 :candy: Bootstrap
 :lollipop: jQuery 
-:ice_cream: React
-
 
