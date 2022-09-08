@@ -25,7 +25,7 @@ My work experience spans many sectors, including:
 :mailbox: Feel free to contact me. I love meeting new people!
 </p>
 
-<h3 align="left"> :smiley_cat: Technologies that I use  :smiley_cat: </h3>
+<h3 align="left"> :wrench: Technologies that I use  :hammer: </h3>
 :cherries: JavaScript
 :shaved_ice: CSS/SCSS
 :candy: Bootstrap
