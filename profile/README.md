@@ -25,6 +25,12 @@ My work experience spans many sectors, including:
 :mailbox: Feel free to contact me. I love meeting new people!
 </p>
 
-
+<h3 align="left"> :smiley_cat: Technologies that I use  :smiley_cat: </h3>
+:cherries: JavaScript
+:shaved_ice: CSS/SCSS
+:candy: Bootstrap
+:lollipop: jQuery 
+:ice_cream: NVDA and Talk Back 
+:lemon: Kali Linux WSL
 
 
