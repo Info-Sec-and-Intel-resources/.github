@@ -5,8 +5,13 @@
 
 <p align="left">I am a Computer Science and Cyber Security MSc student. <br /> I am also passionate about accessibility and web development.<br /> <br />Here you will be able to view some samples of my work. <br /> All my projects are experimental.</p>
 
+<h2 align="left"> :wrench: Technologies that I use  :hammer: </h2>
+:cherries: JavaScript
+:shaved_ice: CSS/SCSS
+:candy: Bootstrap
+:lollipop: jQuery 
 
-<h2 align="left"> :smiley_cat: More about me  :smiley_cat: </h2>
+<h3 align="left"> :smiley_cat: More about me  :smiley_cat: </h3>
 <p align="left">:compass: <strong> Accessibility, Security and Development are central elements of my vision... 
 <br />
 of a world that is open to all, secure for all and solves problems for all through mutual support and teamwork. </strong>:mountain_snow: 
@@ -25,9 +30,5 @@ My work experience spans many sectors, including:
 :mailbox: Feel free to contact me. I love meeting new people!
 </p>
 
-<h3 align="left"> :wrench: Technologies that I use  :hammer: </h3>
-:cherries: JavaScript
-:shaved_ice: CSS/SCSS
-:candy: Bootstrap
-:lollipop: jQuery 
+
 
